@@ -2,7 +2,7 @@ import * as React from "react"
 
 // styles
 
-body {background-color: coral;}
+
 const pageStyles = {
   color: "#232129",
   padding: 96,
